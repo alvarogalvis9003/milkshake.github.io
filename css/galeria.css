@@ -1,0 +1,82 @@
+section{
+	width: 100%;
+	display: block;
+	margin-top: -48px;
+}
+.cuerpo{
+	width: 1170px;
+	margin: auto;
+	margin-top: 20px;
+	min-height: 400px;
+}
+.cuerpo article{
+	width: 230px;
+	min-height: 169px;
+	height: auto;
+	padding: 10px;
+	margin: 8px;
+	border: solid #ccc 1px;
+	float: left;
+}
+.cuerpo article a{
+	width: 230px;
+	height: 169px;
+	display: block;
+	overflow: hidden;
+}
+.cuerpo article:hover{
+	border: solid blue 1px;
+}
+.cuerpo article p{
+	color: white;
+	height: 60px;
+}
+@media (max-width: 1200px) {
+	section{
+		margin-top: -20px;
+	}
+	article{
+		width: 940px;
+	}
+	.cuerpo{
+		width: 940px;
+	}
+}
+@media (max-width: 979px) and (min-width: 768px){
+	section{
+		margin-top: -20px;
+	}
+	article{
+		width: 748px;
+	}
+	.cuerpo{
+		width: 748px;
+	}
+}
+@media (max-width: 767px){
+	section{
+		margin-top: 10px;
+	}
+	article{
+		width: 420px;
+	}
+	.cuerpo{
+		width: 420px;
+	}
+	.cuerpo article{
+		width: 190px;
+		height: 140px;
+		margin: 4px;
+		padding: 4px;
+		min-height: 140px;
+	}
+	.cuerpo article a{
+		width: 190px;
+		height: 140px;
+		min-height: 140px;
+	}
+	.cuerpo article a img{
+		width: 190px !important;
+		height: 140px !important;
+	}
+}

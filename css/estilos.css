@@ -1,0 +1,28 @@
+.fixed-bg {
+    background-image: url("../img/kidsreducidad.jpg");
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+
+.fixed-bg2 {
+    background-image: url("../img/conoreducidad.jpg");
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fixed-bg3 {
+    background-image: url("../img/Donareducidad.jpg");
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

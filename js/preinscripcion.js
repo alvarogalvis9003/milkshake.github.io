@@ -1,0 +1,10 @@
+jQuery(document).ready(function(){
+  jQuery("#aceptar").click(function(){
+    if(jQuery("#btn_submit").is(":enabled"))
+    {
+      jQuery("#btn_submit").prop("disabled",true); 
+    }else{
+      jQuery("#btn_submit").prop("disabled",false);
+    }
+  });
+});

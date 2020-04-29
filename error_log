@@ -1,0 +1,72 @@
+[05-May-2018 23:25:55 America/Chicago] PHP Warning:  include(php/header.php): failed to open stream: No such file or directory in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 32
+[05-May-2018 23:25:55 America/Chicago] PHP Warning:  include(php/header.php): failed to open stream: No such file or directory in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 32
+[05-May-2018 23:25:55 America/Chicago] PHP Warning:  include(): Failed opening 'php/header.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 32
+[05-May-2018 23:25:55 America/Chicago] PHP Warning:  include(php/footer.php): failed to open stream: No such file or directory in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 64
+[05-May-2018 23:25:55 America/Chicago] PHP Warning:  include(php/footer.php): failed to open stream: No such file or directory in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 64
+[05-May-2018 23:25:55 America/Chicago] PHP Warning:  include(): Failed opening 'php/footer.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 64
+[05-May-2018 23:26:24 America/Chicago] PHP Warning:  include(php/header.php): failed to open stream: No such file or directory in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 32
+[05-May-2018 23:26:24 America/Chicago] PHP Warning:  include(php/header.php): failed to open stream: No such file or directory in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 32
+[05-May-2018 23:26:24 America/Chicago] PHP Warning:  include(): Failed opening 'php/header.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 32
+[05-May-2018 23:26:24 America/Chicago] PHP Warning:  include(php/footer.php): failed to open stream: No such file or directory in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 64
+[05-May-2018 23:26:24 America/Chicago] PHP Warning:  include(php/footer.php): failed to open stream: No such file or directory in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 64
+[05-May-2018 23:26:24 America/Chicago] PHP Warning:  include(): Failed opening 'php/footer.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 64
+[05-May-2018 23:26:26 America/Chicago] PHP Warning:  include(php/header.php): failed to open stream: No such file or directory in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 32
+[05-May-2018 23:26:26 America/Chicago] PHP Warning:  include(php/header.php): failed to open stream: No such file or directory in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 32
+[05-May-2018 23:26:26 America/Chicago] PHP Warning:  include(): Failed opening 'php/header.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 32
+[05-May-2018 23:26:26 America/Chicago] PHP Warning:  include(php/footer.php): failed to open stream: No such file or directory in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 64
+[05-May-2018 23:26:26 America/Chicago] PHP Warning:  include(php/footer.php): failed to open stream: No such file or directory in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 64
+[05-May-2018 23:26:26 America/Chicago] PHP Warning:  include(): Failed opening 'php/footer.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 64
+[05-May-2018 23:26:29 America/Chicago] PHP Warning:  include(php/header.php): failed to open stream: No such file or directory in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 32
+[05-May-2018 23:26:29 America/Chicago] PHP Warning:  include(php/header.php): failed to open stream: No such file or directory in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 32
+[05-May-2018 23:26:29 America/Chicago] PHP Warning:  include(): Failed opening 'php/header.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 32
+[05-May-2018 23:26:29 America/Chicago] PHP Warning:  include(php/footer.php): failed to open stream: No such file or directory in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 64
+[05-May-2018 23:26:29 America/Chicago] PHP Warning:  include(php/footer.php): failed to open stream: No such file or directory in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 64
+[05-May-2018 23:26:29 America/Chicago] PHP Warning:  include(): Failed opening 'php/footer.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 64
+[05-May-2018 23:26:32 America/Chicago] PHP Warning:  include(php/header.php): failed to open stream: No such file or directory in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 32
+[05-May-2018 23:26:32 America/Chicago] PHP Warning:  include(php/header.php): failed to open stream: No such file or directory in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 32
+[05-May-2018 23:26:32 America/Chicago] PHP Warning:  include(): Failed opening 'php/header.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 32
+[05-May-2018 23:26:32 America/Chicago] PHP Warning:  include(php/footer.php): failed to open stream: No such file or directory in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 64
+[05-May-2018 23:26:32 America/Chicago] PHP Warning:  include(php/footer.php): failed to open stream: No such file or directory in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 64
+[05-May-2018 23:26:32 America/Chicago] PHP Warning:  include(): Failed opening 'php/footer.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 64
+[05-May-2018 23:26:34 America/Chicago] PHP Warning:  include(php/header.php): failed to open stream: No such file or directory in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 32
+[05-May-2018 23:26:34 America/Chicago] PHP Warning:  include(php/header.php): failed to open stream: No such file or directory in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 32
+[05-May-2018 23:26:34 America/Chicago] PHP Warning:  include(): Failed opening 'php/header.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 32
+[05-May-2018 23:26:34 America/Chicago] PHP Warning:  include(php/footer.php): failed to open stream: No such file or directory in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 64
+[05-May-2018 23:26:34 America/Chicago] PHP Warning:  include(php/footer.php): failed to open stream: No such file or directory in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 64
+[05-May-2018 23:26:34 America/Chicago] PHP Warning:  include(): Failed opening 'php/footer.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 64
+[05-May-2018 23:26:36 America/Chicago] PHP Warning:  include(php/header.php): failed to open stream: No such file or directory in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 32
+[05-May-2018 23:26:36 America/Chicago] PHP Warning:  include(php/header.php): failed to open stream: No such file or directory in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 32
+[05-May-2018 23:26:36 America/Chicago] PHP Warning:  include(): Failed opening 'php/header.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 32
+[05-May-2018 23:26:36 America/Chicago] PHP Warning:  include(php/footer.php): failed to open stream: No such file or directory in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 64
+[05-May-2018 23:26:36 America/Chicago] PHP Warning:  include(php/footer.php): failed to open stream: No such file or directory in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 64
+[05-May-2018 23:26:36 America/Chicago] PHP Warning:  include(): Failed opening 'php/footer.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 64
+[05-May-2018 23:26:41 America/Chicago] PHP Warning:  include(php/header.php): failed to open stream: No such file or directory in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 32
+[05-May-2018 23:26:41 America/Chicago] PHP Warning:  include(php/header.php): failed to open stream: No such file or directory in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 32
+[05-May-2018 23:26:41 America/Chicago] PHP Warning:  include(): Failed opening 'php/header.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 32
+[05-May-2018 23:26:41 America/Chicago] PHP Warning:  include(php/footer.php): failed to open stream: No such file or directory in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 64
+[05-May-2018 23:26:41 America/Chicago] PHP Warning:  include(php/footer.php): failed to open stream: No such file or directory in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 64
+[05-May-2018 23:26:41 America/Chicago] PHP Warning:  include(): Failed opening 'php/footer.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 64
+[05-May-2018 23:28:10 America/Chicago] PHP Warning:  include(php/header.php): failed to open stream: No such file or directory in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 32
+[05-May-2018 23:28:10 America/Chicago] PHP Warning:  include(php/header.php): failed to open stream: No such file or directory in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 32
+[05-May-2018 23:28:10 America/Chicago] PHP Warning:  include(): Failed opening 'php/header.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 32
+[05-May-2018 23:28:10 America/Chicago] PHP Warning:  include(php/footer.php): failed to open stream: No such file or directory in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 64
+[05-May-2018 23:28:10 America/Chicago] PHP Warning:  include(php/footer.php): failed to open stream: No such file or directory in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 64
+[05-May-2018 23:28:10 America/Chicago] PHP Warning:  include(): Failed opening 'php/footer.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 64
+[05-May-2018 23:28:12 America/Chicago] PHP Warning:  include(php/header.php): failed to open stream: No such file or directory in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 32
+[05-May-2018 23:28:12 America/Chicago] PHP Warning:  include(php/header.php): failed to open stream: No such file or directory in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 32
+[05-May-2018 23:28:12 America/Chicago] PHP Warning:  include(): Failed opening 'php/header.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 32
+[05-May-2018 23:28:12 America/Chicago] PHP Warning:  include(php/footer.php): failed to open stream: No such file or directory in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 64
+[05-May-2018 23:28:12 America/Chicago] PHP Warning:  include(php/footer.php): failed to open stream: No such file or directory in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 64
+[05-May-2018 23:28:12 America/Chicago] PHP Warning:  include(): Failed opening 'php/footer.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 64
+[05-May-2018 23:35:25 America/Chicago] PHP Warning:  include(php/header.php): failed to open stream: No such file or directory in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 32
+[05-May-2018 23:35:25 America/Chicago] PHP Warning:  include(php/header.php): failed to open stream: No such file or directory in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 32
+[05-May-2018 23:35:25 America/Chicago] PHP Warning:  include(): Failed opening 'php/header.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 32
+[05-May-2018 23:35:25 America/Chicago] PHP Warning:  include(php/footer.php): failed to open stream: No such file or directory in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 64
+[05-May-2018 23:35:25 America/Chicago] PHP Warning:  include(php/footer.php): failed to open stream: No such file or directory in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 64
+[05-May-2018 23:35:25 America/Chicago] PHP Warning:  include(): Failed opening 'php/footer.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 64
+[05-May-2018 23:35:26 America/Chicago] PHP Warning:  include(php/header.php): failed to open stream: No such file or directory in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 32
+[05-May-2018 23:35:26 America/Chicago] PHP Warning:  include(php/header.php): failed to open stream: No such file or directory in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 32
+[05-May-2018 23:35:26 America/Chicago] PHP Warning:  include(): Failed opening 'php/header.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 32
+[05-May-2018 23:35:26 America/Chicago] PHP Warning:  include(php/footer.php): failed to open stream: No such file or directory in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 64
+[05-May-2018 23:35:26 America/Chicago] PHP Warning:  include(php/footer.php): failed to open stream: No such file or directory in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 64
+[05-May-2018 23:35:26 America/Chicago] PHP Warning:  include(): Failed opening 'php/footer.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/sancajairo/actualmilk.sancajairo.com/index.php on line 64
